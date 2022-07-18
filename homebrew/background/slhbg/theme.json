@@ -1,0 +1,18 @@
+{
+    "name": "Switch Like Home bg",
+    "version": "0.1",
+    "inject": {
+        "shared.css": [
+            "SP"
+        ] 
+    },
+    "patches": {
+        "No Friends": {
+            "default": "Yes",
+            "No": {},
+            "Yes": {
+                "nofriends.css": [ "SP" ]
+            }
+        }
+    }
+}
