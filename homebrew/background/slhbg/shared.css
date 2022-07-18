@@ -17,10 +17,12 @@
 
 .gamepadhome_RecentSection_39tNv {
         HOMEBASE
-    background-size: 100%;
+    background-size: cover;
+    background-position: center;
 }
 
 .lockscreen_Container_3rFFU {
         LCKBASE
-    background-size: 100%;
+    background-size: cover;
+    background-position: center;
 }

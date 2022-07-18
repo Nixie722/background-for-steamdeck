@@ -3,14 +3,13 @@
 ****
 ## Prerequisites ##
 1. working [Plugin Loader](https://www.example.com) with SDH-CssLoader plugin installed
-2. images you want to use as backgounds for ```Home``` and ```Lockscreen``` **in 16:10 apect ratio** this is important! Something like [Croppola](https://croppola.com/) will work fine.
-
+2. images you want to use as backgounds for ```Home``` and ```Lockscreen```
 ****
 ## How to ##
 1. download this repository
 2. extract ```homebrew``` folder into ```/home/deck/```
 3. go to ```/homebrew/background``` folder
-4. Put here your images (16:10!) and
+4. Put here your images and
    1. image you want to use on ```locskscreen``` rename to ```lock``` without extension!
    2. image you want to use on ```Home``` rename to ```home``` without extension!
 5. make the ```background.sh``` script executable (right click it -> properties -> Permissions -> check ```Is executable``` box -> Ok
